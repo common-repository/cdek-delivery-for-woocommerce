@@ -1,0 +1,7 @@
+#billing_city_field{
+	display: none !important;
+}
+
+#city_cdek24_select_field label .optional{
+	display: none;
+}
